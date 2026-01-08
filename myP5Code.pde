@@ -33,6 +33,9 @@ draw = function(){
   ellipse(rightX+62, 100, 70, 60);
   ellipse(rightX-62, 100, 70, 60);
   
+
+  leftX=leftX+1
+  rightX=rightX-1
 }
 
 
